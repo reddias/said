@@ -1,0 +1,33 @@
+body {
+  background-color: #D5BFBF;
+  color: #6D8299 ;
+}
+
+ h1 {
+	color: #316B83;
+	font-weight: normal;
+  text-align: center;
+	font-family: 'Ultra', sans-serif;
+	line-height: 100px;
+	text-transform: uppercase;
+}
+h3 {
+ color: #316B83;
+ font-weight: bold;
+ text-align: center;
+ font-family: 'Ultra', sans-serif;
+ line-height: 100px;
+ text-transform: uppercase;
+}
+a[href] {
+ color: #8CA1A5;
+}
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  text-align: left;
+}
